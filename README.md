@@ -28,7 +28,7 @@
 ## ABOUT ME
 
 <p align="left">
-I'm <b>MahMUD</b> — age doesn't matter, a Full Stack Developer and open-source enthusiast based in Dhaka, Bangladesh. Currently a student.
+I'm <b>MahMUD</b> — Full Stack Developer and open-source enthusiast based in Dhaka, Bangladesh. Currently a student.
 </p>
 
 <p align="left">
